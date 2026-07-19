@@ -1,123 +1,55 @@
-abilasha24/README.md
-Hi, I'm Abilasha Selvanayakam 👋
-Junior Full-Stack Software Engineer | AI-Integrated Applications
-I am a Software Engineering graduate focused on building full-stack web applications and AI-powered solutions.
+### Hi, I'm Abilasha Selvanayakam 👋
+**Junior Full-Stack Software Engineer | AI-Integrated Applications**
 
-I enjoy working across the stack — from designing user interfaces and building REST APIs to database design, authentication, deployment, and AI integration.
+I am a Software Engineering graduate focused on building full-stack web applications and AI-powered solutions. I enjoy working across the stack — from designing user interfaces and building REST APIs to database design, authentication, deployment, and AI integration.
 
-🚀 What I Build
-Full-stack web applications
-REST APIs and backend systems
-Role-based applications with authentication
-AI-powered applications and AI agents
-Machine learning web applications
-🛠️ Technical Skills
-Languages
-JavaScript · TypeScript · Python · PHP · SQL
+### 🚀 What I Build
+- Full-stack web applications
+- REST APIs and backend systems
+- Role-based applications with authentication
+- AI-powered applications and AI agents
+- Machine learning web applications
 
-Frontend
-React · Next.js · HTML5 · CSS3 · Tailwind CSS · Vite
+### 🛠️ Technical Skills
 
-Backend
-Node.js · Express.js · PHP · REST APIs
+**Languages:** JavaScript · TypeScript · Python · PHP · SQL
 
-Databases
-PostgreSQL · MySQL · Prisma ORM · Neon DB
+**Frontend:** React · Next.js · HTML5 · CSS3 · Tailwind CSS · Vite
 
-AI & Machine Learning
-Google ADK · AI Agents · LLM API Integration · Groq API · LLaMA 3.3 · Scikit-learn · Streamlit
+**Backend:** Node.js · Express.js · PHP · REST APIs
 
-Tools & Platforms
-Git · GitHub · VS Code · Postman · Vercel
+**Databases:** PostgreSQL · MySQL · Prisma ORM · Neon DB
 
-⭐ Featured Projects
-🛒 AuraShop — Full-Stack E-Commerce Platform
+**AI & Machine Learning:** Google ADK · AI Agents · LLM API Integration · Groq API · LLaMA 3.3 · Scikit-learn · Streamlit
+
+**Tools & Platforms:** Git · GitHub · VS Code · Postman · Vercel
+
+### ⭐ Featured Projects
+
+**🛒 [AuraShop — Full-Stack E-Commerce Platform](https://github.com/abilasha24/Aura_shop-ecommerce)**
 A full-stack e-commerce platform with product management, search, filtering, shopping cart functionality, JWT authentication, role-based access control, and PostgreSQL database integration.
-
 Tech: Next.js · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · JWT
+🔗 [Live Demo](https://aura-shop-ecommerce-frontend.vercel.app/)
 
-🔗 Live Demo
-
-🌾 Tamil Farmer Assistant — AI Agent for Agriculture
+**🌾 [Tamil Farmer Assistant — AI Agent for Agriculture](https://github.com/abilasha24/Tamil-farmer-agent)**
 A Tamil-language AI assistant providing farmers with weather information, crop suggestions, and market-related information through a multi-tool AI agent architecture.
-
 Tech: Python · Google ADK · Groq API · LLaMA 3.3 · OpenWeatherMap API · Streamlit
+🔗 [Live Demo](https://tamil-farmer-agent-j3cyzcehjeedshdjfmt3mw.streamlit.app/)
 
-🔗 Live Demo
-
-💪 SmartFit — Fitness Management System
+**💪 [SmartFit — Fitness Management System](https://github.com/abilasha24/smart_fit)**
 A role-based fitness management system with separate workflows for Admins, Trainers, and Members, including authentication, CRUD operations, scheduling, subscriptions, and management features.
-
 Tech: PHP · MySQL · JavaScript · HTML · CSS
+🔗 [Live Demo](https://smartfitweb.rf.gd/?i=1)
 
-🔗 Live Demo
-
-📊 Student Score Prediction
+**📊 [Student Score Prediction](https://github.com/abilasha24/student-score-prediction1-app)**
 A machine learning web application that predicts student academic performance using regression-based models.
-
 Tech: Python · Scikit-learn · Streamlit
+🔗 [Live Demo](https://student-score-prediction1-app-an5yveweb5jgse5c7c7kcg.streamlit.app/)
 
-🔗 Live Demo
+### 📫 Connect With Me
+- 💼 LinkedIn: [Abilasha Selvanayakam](https://www.linkedin.com/in/abilashaselvanayakam2k06/)
+- 🌐 Portfolio: [My Portfolio](https://my-portfolio-webapp-ashy.vercel.app/)
+- 📧 Email: selvanayagamabilasha@gmail.com
 
-📫 Connect With Me
-💼 LinkedIn: Abilasha Selvanayakam
-🌐 Portfolio: My Portfolio
-📧 Email: selvanayagamabilasha@gmail.com
-🎯 Currently focused on
+### 🎯 Currently focused on
 Building production-ready full-stack applications and developing expertise in AI-integrated software engineering.
-
-PinnedLoading
- Aura_shop-ecommerce Public
-Full Stack E-Commerce Platform - Next.js 14, Express, PostgreSQL
-
- TypeScript
-
- my-portfolio Public
-
- TypeScript
-
- smart_fit Public
-
- HTML
-
- StudentScoreApp Public
-
- Python
-
- Tamil-farmer-agent Public
-
- Python
-
- Web_Based_AI_Smart_Healthcare_System Public
-
- Jupyter Notebook
-
-116 contributions in the last year
-Skip to contributions year list
-Contribution Graph
-Day of Week	JulyJul	AugustAug	SeptemberSep	OctoberOct	NovemberNov	DecemberDec	JanuaryJan	FebruaryFeb	MarchMar	AprilApr	MayMay	JuneJun	JulyJul
-SundaySun																																																					
-MondayMon																																																					
-TuesdayTue																																																					
-WednesdayWed																																																					
-ThursdayThu																																																					
-FridayFri																																																					
-SaturdaySat																																																					
-Learn how we count contributions
-Less
-No contributions.
-Low contributions.
-Medium-low contributions.
-Medium-high contributions.
-High contributions.
-More
-Contribution activity
-July 2026
-abilasha24/my-portfolio 15 commits
-abilasha24/abilasha24 2 commits
-abilasha24/Tamil-farmer-agent 2 commits
-abilasha24/Aura_shop-ecommerce 1 commit
- abilasha24/abilasha24
-This contribution was made on Jul 16Jul 16
-Loading
-Seeing something unexpected? Take a look at the GitHub profile guide.
