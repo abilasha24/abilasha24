@@ -63,7 +63,6 @@ A role-based fitness management system with separate workflows for Admins, Train
 **Technologies:** PHP · MySQL · JavaScript · HTML · CSS
 
 - [GitHub Repository](https://github.com/abilasha24/smart_fit)
-- [Live Demo](https://smartfitweb.rf.gd/?i=1)
 
 ### 📊 Student Score Prediction
 
